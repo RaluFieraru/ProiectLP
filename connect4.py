@@ -14,6 +14,7 @@ COLUMN_COUNT = 7
 
 PLAYER = 0
 AI = 1
+#buna
 
 EMPTY = 0
 PLAYER_PIECE = 1
