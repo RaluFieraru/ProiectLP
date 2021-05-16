@@ -35,6 +35,7 @@ def get_next_open_row(board, col):
 	for r in range(ROW_COUNT):
 		if board[r][col] == 0:
 			return r
+		
 
 def print_board(board):
 	print(np.flip(board, 0))
